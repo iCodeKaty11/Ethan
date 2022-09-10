@@ -1,3 +1,4 @@
 # Ethan
-I like minecraft
-war thunder
+I like minecraft and
+war thunder also
+I want to work at mojang
